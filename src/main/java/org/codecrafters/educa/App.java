@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.sql.Connection;
 
 /**
- * Test comment
+ * Test comment - Entry point
  */
 public class App extends Application {
     public static final int WIDTH = 640;
