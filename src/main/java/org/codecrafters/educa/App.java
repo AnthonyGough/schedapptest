@@ -12,6 +12,9 @@ import org.codecrafters.educa.profiles.Student;
 import java.io.IOException;
 import java.sql.Connection;
 
+/**
+ * Test comment
+ */
 public class App extends Application {
     public static final int WIDTH = 640;
     public static final int HEIGHT = 400;
