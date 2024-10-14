@@ -23,6 +23,7 @@ jobs:
       contents: read
       actions: read
       checks: write
+      pages: write
 
     steps:
     - uses: actions/checkout@v4
