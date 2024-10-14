@@ -5,7 +5,7 @@ import java.time.Period;
 import java.time.format.DateTimeFormatter;
 
 /**
- * class for Note object - class new comment
+ * class for Note object - class new comment new
  */
 public class Note {
     private int studentId;
